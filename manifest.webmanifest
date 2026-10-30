@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Mis Metas",
-  "short_name": "Mis Metas",
+  "name": "Metas",
+  "short_name": "Metas",
   "description": "Tus objetivos, ahorros y deseos en un solo lugar",
   "start_url": "./",
   "scope": "./",
