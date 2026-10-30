@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Mis Metas",
+  "short_name": "Mis Metas",
+  "description": "Tus objetivos, ahorros y deseos en un solo lugar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090c15",
+  "theme_color": "#090c15",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
